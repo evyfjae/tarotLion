@@ -1,0 +1,1 @@
+web: gunicorn tarotproject.wsgi --log-file -
